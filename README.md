@@ -8,8 +8,8 @@ Z42希望为搭建垂直社区一个通用的开源技术解决方案。
 
 # 相关链接
 
-* 演示网站 [z42.pw](http://z42.pw)  
-* 教程文档 [z42.xyz](http://z42.xyz) 
+* 演示网站 [z42.xyz](http://z42.xyz)  
+* 教程文档 [z42.pw](http://z42.pw) 
 * 代码仓库 [bitbucket.org/z42](https://bitbucket.org/z42)
 
 
