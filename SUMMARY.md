@@ -1,4 +1,4 @@
-# 目录 
+# SUMMARY 
 
 * [序](README.md)
 * [技术栈](stack.md)
@@ -17,7 +17,6 @@
 * [常用的前端函数](js.md)
 * [css](css.md)
     * 如何规划css的目录结构
-* [上传文件&图像剪裁](upload.md)
 
 ## 后端
 * [View](view.md)
