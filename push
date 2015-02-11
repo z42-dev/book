@@ -1,1 +1,1 @@
-git commit -amupdate;git push
+git commit -amupdate;git push;git push gitbook master
