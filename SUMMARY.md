@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 目录
 
 * [序](README.md)
@@ -22,4 +23,8 @@
 * [基于pull-request的写作开发](pull_request.md)
 * [前端](guide_frontend.md)
 * [后端](guide_backend.md)
+=======
+# Summary
+
+>>>>>>> 07bde6cd998e1fdb60c0e85326d9bacc1d8db014
 
