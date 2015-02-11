@@ -11,6 +11,6 @@
     1. [plim](http://plim.readthedocs.org/en/latest/)
 1. 数据库
     1. [mongodb](http://www.mongodb.org/)
-    1. [redis](http://redisbook.com/) 
-
+    1. [redis](http://redis.io/) [中文文档](http://redisbook.com/) 
+    
 
