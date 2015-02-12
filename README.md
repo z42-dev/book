@@ -13,6 +13,7 @@ Z42希望为搭建垂直社区一个通用的开源技术解决方案。
 * 代码仓库 [bitbucket.org/z42](https://bitbucket.org/z42)
 * 沟通工具 [z42.bearychat.com](http://z42.bearychat.com/)
 
+
 # 发展历程
 
 * 2011-02-11 项目正式启动

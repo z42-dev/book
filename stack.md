@@ -26,5 +26,5 @@ https://github.com/matthieua/WOW
 可以参考我新写的demo页面
 http://futu5.org/
 
-这样看起来更加高大上一点儿
+字蛛-中文字体 http://font-spider.org/
 
