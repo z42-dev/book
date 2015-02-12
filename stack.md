@@ -16,4 +16,15 @@
 # 开发工具
 
 
+PS: @hongqn
+
+可以考虑用
+http://jschr.github.io/textillate/
+https://github.com/matthieua/WOW
+加一下动画效果
+
+可以参考我新写的demo页面
+http://futu5.org/
+
+这样看起来更加高大上一点儿
 
